@@ -2,13 +2,13 @@
 
 ## Assignment one
   
-> Create a statement for each phrasal verb in the following list 
-> * Take off
-> * Fall out
-> * Pick up
-> * Sort out
-> * Put up
-> * Hold on
+Create a statement for each phrasal verb in the following list 
+* Take off
+* Fall out
+* Pick up
+* Sort out
+* Put up
+* Hold on
            
 ## Solution
 __Take off__ your shoes before entering into the house, please! (take off - togliersi, spogliarsi)  
@@ -19,13 +19,13 @@ Next government budget will __put Italian taxes up__. (put up - aumentare)
 I'll be back to you in a minute, please __hold on__! (hold on - attendi, resta in attesa)  
                  
 ## Assignment two
-> Write a phrasal verb for each preposition in the following list:
-> * away
-> * on
-> * back
-> * out
-> * down
-> * in
+Write a phrasal verb for each preposition in the following list:
+* away
+* on
+* back
+* out
+* down
+* in
       
 ## Solution
 You will take away your fear just facing it *(take away - far passare)*  
