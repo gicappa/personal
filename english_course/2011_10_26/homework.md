@@ -1,9 +1,20 @@
-Take off your shoes before entering into the house, please! (take off - togliersi, spogliarsi)
-Yesterday I fell out with my father over the same old problems.  (fall out over - litigare, bisticciare su)
-I can't remember:  tomorrow, should I pick you up at 4 or 5 o' clock? (pick up - passare a prendere, dare un passaggio)
-Be patient. We'll sort our problems out together. (sort out - risolvere)
-Next government budget will put Italian taxes up. (put up - aumentare)
-I'll be back to you in a minute, please hold on! (hold on - attendi, resta in attesa)
+# Assignment
+  
+> Create a statement for each phrasal verb in the following list 
+> * Take off
+> * Fall out
+> * Pick up
+> * Sort out
+> * Put up
+> * Hold on
+           
+# Solution
+__Take off__ your shoes before entering into the house, please! (take off - togliersi, spogliarsi)  
+Yesterday I __fell out__ with my father over the same old problems.  (fall out over - litigare, bisticciare su)  
+I can't remember:  tomorrow, should I __pick you up__ at 4 or 5 o' clock? (pick up - passare a prendere, dare un passaggio)  
+Be patient. We'll __sort our problems out__ together. (sort out - risolvere)  
+Next government budget will __put Italian taxes up__. (put up - aumentare)  
+I'll be back to you in a minute, please __hold on__! (hold on - attendi, resta in attesa)  
 
 You will take away your fear just facing it (take away - far passare)
 Please don't stop guys, you have not finished the work out yet, carry on running please! (carry on - continuare)
