@@ -2,13 +2,14 @@
 
 ## Assignment one
   
-Create a statement for each phrasal verb in the following list:   
- *  Take off
- *  Fall out
- *  Pick up
- *  Sort out
- *  Put up
- *  Hold on
+Create a statement for each phrasal verb in the following list:
+
+ -   Take off
+ -   Fall out
+ -   Pick up
+ -   Sort out
+ -   Put up
+ -   Hold on
            
 ## Solution
 __Take off__ your shoes before entering into the house, please! (take off - togliersi, spogliarsi)  
@@ -19,7 +20,8 @@ Next government budget will __put Italian taxes up__. (put up - aumentare)
 I'll be back to you in a minute, please __hold on__! (hold on - attendi, resta in attesa)  
                  
 ## Assignment two
-Write a phrasal verb for each preposition in the following list:
+Write a phrasal verb for each preposition in the following list: 
+
  *  away
  *  on
  *  back
@@ -28,13 +30,13 @@ Write a phrasal verb for each preposition in the following list:
  *  in
       
 ## Solution
-You will take away your fear just facing it *(take away - far passare)*  
-Please don't stop guys, you have not finished the work out yet, carry on running please! *(carry on - continuare)*  
-The new boss is really pissing me off! *(piss off - mi fa incazzare)*  
-If it won't work properly we'll fall back to the first version of the project. *(fall back - riproporre, ricadere)*  
-I'll figure out a solution just when there will be a real problem. *(figure out - immaginare)*  
-Getting down to the facts I think you are guilty. *(getting down  to the facts - Venendo al sodo, penso che tu sia colpevole)*  
-The receptionist found my reservation and I finally checked in at the hotel *(check in - registrarsi)*  
+You will __take away__ your fear just facing it *(take away - far passare)*  
+Please don't stop guys, you have not finished the work out yet, __carry on__ running please! *(carry on - continuare)*  
+The new boss is really __pissing me off__! *(piss off - mi fa incazzare)*  
+If it won't work properly we'll __fall back__ to the first version of the project. *(fall back - riproporre, ricadere)*  
+I'll __figure out__ a solution just when there will be a real problem. *(figure out - immaginare)*  
+__Getting down__ to the facts I think you are guilty. *(getting down  to the facts - Venendo al sodo, penso che tu sia colpevole)*  
+The receptionist found my reservation and I finally __checked in__ at the hotel *(check in - registrarsi)*  
                                                                                                       
 
 
