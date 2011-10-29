@@ -50,6 +50,6 @@ When I was young, there was an amazing publication called The Whole Earth Catalo
 
 Stewart and his team put out several issues of The Whole Earth Catalog, and then when it had run its course, they put out a final issue. It was the mid-1970s, and I was your age. On the back cover of their final issue was a photograph of an early morning country road, the kind you might find yourself hitchhiking on if you were so adventurous. Beneath it were the words: "Stay Hungry. Stay Foolish." It was their farewell message as they signed off. Stay Hungry. Stay Foolish. And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you.
 
-Stay Hungry. Stay Foolish.
+> Stay Hungry. Stay Foolish.
 
 Thank you all very much.
