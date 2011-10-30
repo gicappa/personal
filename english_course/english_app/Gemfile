@@ -1,0 +1,52 @@
+source 'http://rubygems.org'
+
+gem 'rails', '3.1.0'
+
+# Bundle edge Rails instead:
+# gem 'rails',     :git => 'git://github.com/rails/rails.git'
+
+gem 'sqlite3'
+
+
+# Gems used only for assets and not required
+# in production environments by default.
+group :assets do
+  gem 'sass-rails', "  ~> 3.1.0"
+  gem 'coffee-rails', "~> 3.1.0"
+  gem 'uglifier'
+end
+
+gem 'jquery-rails'
+
+# Use unicorn as the web server
+# gem 'unicorn'
+
+# To use debugger
+# gem 'ruby-debug19', :require => 'ruby-debug'
+
+group :test do
+  # Pretty printed test output
+  gem 'turn', :require => false
+end
+
+group :development, :test do
+  gem 'rspec-rails'
+  gem 'jasmine'
+  gem 'capistrano'
+  gem 'capistrano-ext'
+  gem 'capybara'        
+  gem "database_cleaner"
+  gem "factory_girl_rails"
+end
+
+group :test do
+  gem "fuubar"
+  gem 'headless'
+  gem "autotest"
+  gem "autotest-fsevent" if RUBY_PLATFORM =~ /darwin/
+  gem "autotest-growl" if RUBY_PLATFORM =~ /darwin/
+  gem 'simplecov', :require => false
+  gem 'simplecov-rcov', :require => false
+  gem 'ci_reporter'
+  gem 'rr'
+end
