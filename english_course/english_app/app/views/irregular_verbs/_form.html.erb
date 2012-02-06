@@ -1,0 +1,17 @@
+<%= form_for(@irregular_verb) do |f| %>
+  <% if @irregular_verb.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@irregular_verb.errors.count, "error") %> prohibited this irregular_verb from being saved:</h2>
+
+      <ul>
+      <% @irregular_verb.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
