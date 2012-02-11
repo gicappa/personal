@@ -1,5 +1,3 @@
-<h1>New irregular_verb</h1>
-
-<%= render 'form' %>
-
-<%= link_to 'Back', irregular_verbs_path %>
+<%= form_for @irregular_verb, :url => irregular_verbs_path, :html => { :class => :form } do |f| -%>
+  <%= render :partial => "form", :locals => {:f => f} %>
+<% end -%>

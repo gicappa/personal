@@ -1,5 +1,18 @@
-<p id="notice"><%= notice %></p>
 
+<label class="label"><%= t("activerecord.attributes.irregular_verb.italiano", :default => t("activerecord.labels.italiano", :default => "Italiano")) %>:</label>
+<p><%= @irregular_verb.italiano %></p>
 
-<%= link_to 'Edit', edit_irregular_verb_path(@irregular_verb) %> |
-<%= link_to 'Back', irregular_verbs_path %>
+<label class="label"><%= t("activerecord.attributes.irregular_verb.present", :default => t("activerecord.labels.present", :default => "Present")) %>:</label>
+<p><%= @irregular_verb.present %></p>
+
+<label class="label"><%= t("activerecord.attributes.irregular_verb.simple_past", :default => t("activerecord.labels.simple_past", :default => "Simple past")) %>:</label>
+<p><%= @irregular_verb.simple_past %></p>
+
+<label class="label"><%= t("activerecord.attributes.irregular_verb.past_participle", :default => t("activerecord.labels.past_participle", :default => "Past participle")) %>:</label>
+<p><%= @irregular_verb.past_participle %></p>
+
+<div class="form-actions">
+<%= link_to "Back", irregular_verbs_path, :class => 'btn'  %>
+<%= link_to "Edit", edit_irregular_verb_path(@irregular_verb), :class => 'btn' %>
+<%= link_to "Delete", irregular_verb_path(@irregular_verb), :method => "delete", :confirm => "#{t("web-app-theme.confirm", :default => "Are you sure?")}", :class => 'btn' %>
+</div>

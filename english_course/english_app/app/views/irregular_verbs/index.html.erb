@@ -1,21 +1,30 @@
-<h1>Listing irregular_verbs</h1>
-
-<table>
+<h1>Irregular Verbs</h1>
+<table class="table table-striped">
+ <thead>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>ID</th>
+        <th>
+      <%= t("activerecord.attributes.irregular_verb.italiano", :default => t("activerecord.labels.italiano", :default => "Italiano")) %>
+    </th>
+        <th>Created at</th>
+    <th>Actions</th>
   </tr>
-
-<% @irregular_verbs.each do |irregular_verb| %>
-  <tr>
-    <td><%= link_to 'Show', irregular_verb %></td>
-    <td><%= link_to 'Edit', edit_irregular_verb_path(irregular_verb) %></td>
-    <td><%= link_to 'Destroy', irregular_verb, confirm: 'Are you sure?', method: :delete %></td>
-  </tr>
-<% end %>
+  </thead>
+  <tbody>
+  <% @irregular_verbs.each do |irregular_verb| -%>
+   <tr>
+    <td><%= irregular_verb.id %></td>
+        <td><%= link_to irregular_verb.italiano, irregular_verb_path(irregular_verb) %>
+    </td>
+        <td><%= irregular_verb.created_at %></td>
+    <td>
+      <%= link_to "Show", irregular_verb_path(irregular_verb) %>
+      <%= link_to "Edit", edit_irregular_verb_path(irregular_verb) %>
+      <%= link_to "Destroy", irregular_verb_path(irregular_verb), :method => :delete, :confirm => "#{t("web-app-theme.confirm", :default => "Are you sure?")}" %>
+    </td>
+    </tr>
+    <% end -%>
+   </tbody>
 </table>
 
-<br />
-
-<%= link_to 'New Irregular verb', new_irregular_verb_path %>
+<%= link_to "New", new_irregular_verb_path, :class => 'btn btn-primary' %>

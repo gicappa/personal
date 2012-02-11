@@ -1,0 +1,6 @@
+<p id="notice"><%= notice %></p>
+
+<%= form_for @user_answer,:as => :irregular_verb, :url => {:action => :check}, :html => {:class => "form-inline"} do |f| %>
+<h3><%= @current_verb %></h3>
+<% end -%>
+<%= link_to 'Back', verb_tests_path %>

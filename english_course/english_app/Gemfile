@@ -16,6 +16,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'twitter-bootstrap-rails'
 
 # Use unicorn as the web server
 # gem 'unicorn'
@@ -45,7 +46,7 @@ group :development, :test do
   end 
 end
 group :test do
-  gem 'turn', :require => false
+  gem 'turn', '< 0.8.3', :require => false
   gem 'fuubar'
   gem 'simplecov', :require => false
   gem 'simplecov-rcov', :require => false
