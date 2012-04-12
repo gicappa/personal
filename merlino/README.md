@@ -55,6 +55,34 @@ class ShopWizardController < ApplicationController
 end
 ```
 
+Some helpers method will be defined in the controller 
+
+```ruby
+def steps
+	# will return all the steps name of the wizard
+end
+
+def current_step
+	# will return the current step name of the wizard
+end
+
+def next_step
+	# will return the next step name of the wizard
+end
+
+def previous_step
+	# will return the previous step name of the wizard
+end
+
+def first_step?
+	# will return true if current step is the first, false otherwise
+end
+
+def last_step?
+	# will return true if current step is the last, false otherwise
+end
+```
+
 ## Views
 The views are placed in the directory ```app/views/shop_wizard``` and will have the the names of the steps.
 
