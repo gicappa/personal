@@ -1,0 +1,101 @@
+2	1	Agile Estimating and Planning	Mike Cohn	2005
+3	3	Working Effectively with Legacy Code	Michael Feathers	2004
+4	8	Kanban: Successful Evolutionary Change for Your Technology Business	David J. Anderson	2010
+5	9	Succeeding with Agile: Software Development Using Scrum	Mike Cohn	2009
+6	2	Clean Code: A Handbook of Agile Software Craftsmanship	Robert C. Martin	2008
+7	6	Agile Software Development, Principles, Patterns, and Practices	Robert C. Martin	2002
+8	4	Refactoring: Improving the Design of Existing Code	Martin Fowler, et al.	1999
+
+9	-	The Agile Samurai: How Agile Masters Deliver Great Software	Jonathan Rasmusson	2010
+10	7	The Pragmatic Programmer: From Journeyman to Master	Andrew Hunt, David Thomas	1999
+11	11	User Stories Applied: For Agile Software Development	Mike Cohn	2004
+12	10	Growing Object-Oriented Software, Guided by Tests	Steve Freeman, Nat Pryce	2009
+13	32	The Principles of Product Development Flow: Second Generation Lean Product Development	Donald G. Reinertsen	2009
+14	14	The Art of Agile Development	James Shore, Shane Warden	2007
+15	23	Scrum and XP from the Trenches	Henrik Kniberg	2007
+16	12	Lean Software Development: An Agile Toolkit	Mary Poppendieck, Tom Poppendieck	2003
+17	13	Domain-Driven Design: Tackling Complexity in the Heart of Software	Eric Evans	2003
+18	16	Agile Principles, Patterns, and Practices in C#	Robert C. Martin, Micah Martin	2006
+19	17	Agile Testing: A Practical Guide for Testers and Agile Teams	Lisa Crispin, Janet Gregory	2009
+20	24	Implementing Lean Software Development: From Concept to Cash	Mary Poppendieck, Tom Poppendieck	2006
+21	18	Practices of an Agile Developer: Working in the Real World	Venkat Subramaniam, Andy Hunt	2005
+22	15	Making Things Happen: Mastering Project Management	Scott Berkun	2008
+23	57	Beautiful Testing: Leading Professionals Reveal How They Improve Software	Adam Goucher, Tim Riley	2009
+24	19	Behind Closed Doors: Secrets of Great Management	Johanna Rothman, Esther Derby	2005
+25	34	Crystal Clear: A Human-Powered Methodology for Small Teams	Alistair Cockburn	2004
+26	28	Agile Coaching	Rachel Davies, Liz Sedley	2009
+27	20	Applied Software Project Management	Andrew Stellman, Jennifer Greene	2005
+28	21	Agile Project Management: Creating Innovative Products (2nd Edition)	Jim Highsmith	2009
+29	22	xUnit Test Patterns: Refactoring Test Code	Gerard Meszaros	2007
+30	31	Manage Your Project Portfolio: Increase Your Capacity and Finish More Projects	Johanna Rothman	2009
+31	26	Writing Effective Use Cases	Alistair Cockburn	2000
+32	-	Specification by Example: How Successful Teams Deliver the Right Software	Gojko Adzic	2011
+33	41	Managing the Design Factory	Donald G. Reinertsen	1997
+34	-	The Clean Coder	Robert C. Martin	2011
+35	29	Agile Retrospectives: Making Good Teams Great	Esther Derby, Diana Larsen	2006
+36	39	Agile Project Management with Scrum	Ken Schwaber	2004
+37	30	Agile Adoption Patterns: A Roadmap to Organizational Succes	Amr Elssamadisy	2008
+38	27	Refactoring to Patterns	Joshua Kerievsky	2004
+39	40	Extreme Programming Explained: Embrace Change (1st+2nd Edition)	Kent Beck, Cynthia Andres	1999
+40	37	The Productive Programmer	Neal Ford	2008
+41	60	Agile Product Management with Scrum: Creating Products that Customers Love	Roman Pichler	2010
+42	25	Agile and Iterative Development: A Manager's Guide	Craig Larman	2003
+43	68	Stand Back and Deliver: Accelerating Business Agility	Pollyanna Pixton, Niel Nickolaisen, Todd Little, Kent McDonald	2009
+44	-	The Elements of Scrum	Chris Sims, Hillary Louise Johnson	2011
+45	-	Management 3.0: Leading Agile Developers, Developing Agile Leaders	Jurgen Appelo	2011
+46	47	Test Driven Development: By Example	Kent Beck	2002
+47	36	Agile Software Development with Scrum	Ken Schwaber, Mike Beedle	2001
+48	-	The Concise Executive Guide to Agile	Israel Gat	2010
+49	48	Continuous Integration: Improving Software Quality and Reducing Risk	Paul M. Duvall, Steve Matyas, Andrew Glover	2007
+50	-	Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
+Jez Humble, David Farley	2010
+51	35	Requirements by Collaboration	Ellen Gottesdiener	2002
+52	42	Manage It!: Your Guide to Modern, Pragmatic Project Management	Johanna Rothman	2007
+53	45	Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum	Craig Larman, Bas Vodde	2008
+54	38	Organizational Patterns of Agile Software Development	James O. Coplien, Neil B. Harrison	2004
+55	43	Leading Lean Software Development: Results Are not the Point	Mary Poppendieck, Tom Poppendieck	2009
+56	51	Ship it! A Practical Guide to Successful Software Projects	Jared Richardson, William A. Gwaltney	2005
+57	86	Kanban and Scrum - Making the Most of Both	Henrik Kniberg, Mattias Skarin	2010
+58	71	Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition	Lyssa Adkins	2010
+59	49	Collaboration Explained: Facilitation Skills for Software Project Leaders	Jean Tabaka	2006
+60	55	Beyond Software Architecture: Creating and Sustaining Winning Solutions	Luke Hohmann	2003
+61	50	Changing Software Development: Learning to Become Agile	Allan Kelly	2008
+62	80	Innovation Games: Creating Breakthrough Products Through Collaborative Play	Luke Hohmann	2006
+63	70	Just Enough Requirements Management: Where Software Development Meets Marketing	Alan Mark Davis	2005
+64	52	Agility and Discipline Made Easy: Practices from OpenUP and RUP	Per Kroll, Bruce MacIsaac	2006
+65	61	Implementation Patterns	Kent Beck	2006
+66	62	Extreme Programming Installed	Ron Jeffries, Ann Anderson, Chet Hendrickson	2000
+67	56	Beautiful Teams: Inspiring and Cautionary Tales from Veteran Team Leaders	Andrew Stellman, Jennifer Greene	2009
+68	53	Refactoring Databases: Evolutionary Database Design	Scott W. Ambler, Pramodkumar J. Sadalage	2006
+69	88	Bridging the Communication Gap: Specification by Example and Agile Acceptance Testing	Gojko Adzic	2009
+70	58	Managing Agile Projects	Sanjiv Augustine	2005
+71	46	Agile Software Development: The Cooperative Game (2nd Edition)	Alistair Cockburn	2006
+72	81	Agile Management for Software Engineering: Applying the Theory of Constraints for Business Results	David J. Anderson	2003
+73	73	Becoming Agile: ...in an Imperfect World	Greg Smith, Ahmed Sidky	2008
+74	66	Emergent Design: The Evolutionary Nature of Professional Software Development	Scott L. Bain	2008
+75	75	Test Driven: TDD and Acceptance TDD for Java Developers	Lasse Koskela	2007
+76	83	The Software Project Manager's Bridge to Agility	Michele Sliger, Stacia Broderick	2008
+77	-	Lean-Agile Acceptance Test-Driven Development: Better Software Through Collaboration	Ken Pugh	2011
+78	63	Agile Excellence for Product Managers: A Guide to Creating Winning Products with Agile Development Teams	Greg Cohen	2010
+79	54	Managing Agile Projects	Kevin J. Aguanno	2005
+80	69	A Tale of Two Systems: Lean and Agile Software Development for Business Leaders	Michael K. Levine	2009
+81	67	Fearless Change: Patterns for Introducing New Ideas	Mary Lynn Manns, Linda Rising	2004
+82	64	Balancing Agility and Discipline: A Guide for the Perplexed	Barry Boehm, Richard Turner	2003
+83	79	Patterns of Agile Practice Adoption	Amr Elssamadisy	2007
+84	-	Lean Architecture: for Agile Software Development	James O. Coplien, Gertrud Bjørnvig	2010
+85	59	Lean-Agile Software Development: Achieving Enterprise Agility	Alan Shalloway, Guy Beaver, James R. Trott	2009
+86	84	Business Agility: Sustainable Prosperity in a Relentlessly Competitive World	Michael H. Hugos	2009
+87	-	Just Enough Software Architecture: A Risk-Driven Approach	George H. Fairbanks	2010
+88	78	Principles of Software Development Leadership: Applying Project Management Principles to Agile Software Development	Ken Whitaker	2009
+89	77	A Practical Guide to Distributed Scrum	Elizabeth Woodward, Steffan Surdek, Matthew Ganis	2010
+90	76	The Business Value of Agile Software Methods: Maximizing Roi With Just-in-time Processes and Documentation	David F. Rico, Hasan H. Sayani, Saya Sone	2009
+91	-	Personal Kanban: Mapping Work | Navigating Life	Jim Benson, Tonianne DeMaria Barry	2011
+92	74	Agile Game Development with Scrum	Clinton Keith	2010
+93	-	Agile Software Requirements: Lean Requirements Practices for Teams, Programs, and the Enterprise	Dean Leffingwell	2010
+94	85	The Enterprise Unified Process: Extending the Rational Unified Process	Scott W. Ambler, John Nalbone, Michael J. Vizdos	2005
+95	-	Managing Software Debt: Building for Inevitable Change	Chris Sterling	2010
+96	82	Project Management the Agile Way: Making It Work in the Enterprise	John C. Goodpasture	2009
+97	-	Agile Software Development with Distributed Teams	Jutta Eckstein	2010
+98	-	SDLC 3.0: Beyond a Tacit Understanding of Agile	Mark Kennaley	2010
+99	33	Scaling Software Agility: Best Practices for Large Enterprises	Dean Leffingwell	2007
+100	95	Test-Driven Development: A Practical Guide
