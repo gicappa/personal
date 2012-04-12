@@ -8,6 +8,7 @@ Merlino is a gem that will help rails developer in developing a wizard. Merlino'
   
 ## Model
 For every model involved in the wizard a decorator have to be created. Each decorator will be specific of the model and the step involved
+
 ```ruby
 class Cheese < ActiveRecord::Base
 	validates_presence_of :name
@@ -38,9 +39,11 @@ class WineStepThree
 	decorates :wine
 	validates_presence_of :year		
 end
-```	
+```
+
 ## Controller
 It's needed a controller ad hoc to handle the wizard steps. In the controller will be declared which models are involved for every step
+
 ```ruby
 class ShopWizardController < ApplicationController
 	merlino do
