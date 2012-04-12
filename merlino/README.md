@@ -1,5 +1,6 @@
 # Merlino
 Merlino is a gem that will help rails developer in developing a wizard. Merlino's main features are:
+
 * change model is not needed: you can add Merlino's capabilities adding object (decorators) following the OCP aim
 * add a validation of the model specific to steps
 * multiple model wizard with a final save
