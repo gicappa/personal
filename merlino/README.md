@@ -62,7 +62,8 @@ The views are placed in the directory ```app/views/shop_wizard``` and will have 
 Following routes will be added to the application:
 
 ```ruby
-post "/shop_wizard/:step/next" => "shop_wizard#next", :as => :shop_wizard_next
-post "/shop_wizard/:step/back" => "shop_wizard#next", :as => :shop_wizard_back
-post "/shop_wizard/" => "shop_wizard#create", :as => :shop_wizard_create
+get "/shop_wizard/" => "shop_wizard#init", :as => :shop_wizard_init # initialize session for the wizard 
+post "/shop_wizard/:step" => "shop_wizard#next", :as => :shop_wizard_next # goes to the next step
+delete "/shop_wizard/:step" => "shop_wizard#next", :as => :shop_wizard_back # goes to the previous step
+post "/shop_wizard/" => "shop_wizard#create", :as => :shop_wizard_create # finally create models
 ```
