@@ -1,7 +1,7 @@
 # Merlino
 Merlino is a gem that will help rails developer in developing a wizard. Merlino's main features are:
 
-* change model is not needed: you can add Merlino's capabilities adding object (decorators) following the OCP aim
+* is not needed a change in the model: you can add Merlino's capabilities adding object (decorators) following the OCP aim
 * add a validation of the model specific to steps
 * multiple model wizard with a final save
 * supports back and next button
@@ -53,4 +53,16 @@ class ShopWizardController < ApplicationController
 		step :step_three,	models => :wine_step_three
 	end
 end
+```
+
+## Views
+The views are placed in the directory ```app/views/shop_wizard``` and will have the the names of the steps.
+
+## Routes
+Following routes will be added to the application:
+
+```ruby
+post "/shop_wizard/:step/next" => "shop_wizard#next", :as => :step_next
+post "/shop_wizard/:step/back" => "shop_wizard#next", :as => :step_back
+post "/shop_wizard/"
 ```
