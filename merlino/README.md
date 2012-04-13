@@ -95,3 +95,8 @@ post "/shop_wizard/:step" => "shop_wizard#next", :as => :shop_wizard_next # goes
 delete "/shop_wizard/:step" => "shop_wizard#next", :as => :shop_wizard_back # goes to the previous step
 post "/shop_wizard/" => "shop_wizard#create", :as => :shop_wizard_create # finally create models
 ```
+
+### TODO
+Add skip_step
+Add a devise integration using the signup as a step
+Add views helpers for next previous button and step(:my_step)
