@@ -21,22 +21,19 @@ class Wine < ActiveRecord::Base
 	validates_presence_of :year
 end
 	
-class CheeseStepOne
-	decorates :cheese
+module CheeseStepOne
 	validates_presence_of :name
 end
 	
-class CheeseStepTwo
-	decorates :cheese
+module CheeseStepTwo
 	validates_presence_of :weight
 end
 	
-class WineStepOne
-	decorates :wine
+module WineStepOne
 	validates_presence_of :name		
 end
 
-class WineStepThree
+module WineStepThree
 	decorates :wine
 	validates_presence_of :year		
 end
